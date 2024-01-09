@@ -5,7 +5,7 @@ Aimbot for cs 1.6, based on YoloV5
 1. Install Python 3.11.x
 2. Download repository
 3. Open terminal
-4. cd AI_AIMBOT_CS1.6
-5. py -3.11.x -m pip install -r requirements.txt
-6. Open Counter-Strike in window
-7. py -3.11.x main.py
+5. ```cd AI_AIMBOT_CS1.6```
+6. ```py -3.11.x -m pip install -r requirements.txt```
+7. Open Counter-Strike in window
+8. ```py -3.11.x main.py```
