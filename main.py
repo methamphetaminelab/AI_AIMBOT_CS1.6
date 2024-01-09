@@ -55,7 +55,7 @@ class ObjectDetection:
                 print(f'Detected: [{x1} {y1} | {x2} {y2}]')
 
         if closest_object_coords:
-            win32api.mouse_event(win32con.MOUSEEVENTF_MOVE, int(speed_factor * (closest_object_coords[0] - center_x)), int(speed_factor * (closest_object_coords[1] - center_y)), 0, 0)
+            win32api.mouse_event(win32con.MOUSEEVENTF_MOVE, int(speed_factor * (closest_object_coords[0] - center_x)), int(speed_factor * (closest_object_coords[1] - center_y-offset)), 0, 0)
             print(f'Moved to the center of the closest object: {closest_object_coords}')
 
         return frame
