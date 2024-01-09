@@ -9,3 +9,5 @@ Aimbot for cs 1.6, based on YoloV5
 6. ```py -3.11.x -m pip install -r requirements.txt```
 7. Open Counter-Strike in window
 8. ```py -3.11.x main.py```
+
+<video src='showcase.mp4' width=180/>
