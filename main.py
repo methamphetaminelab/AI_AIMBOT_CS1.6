@@ -90,7 +90,7 @@ class ObjectDetection:
 
 #---settings---
 speed_factor = 5
-offest = 15
+offset = 15
 model_path = 'best.pt'
 #---settings---
 
