@@ -10,4 +10,4 @@ Aimbot for cs 1.6, based on YoloV5
 7. Open Counter-Strike in window
 8. ```py -3.11.x main.py```
 
-![alt-text](https://media.giphy.com/media/aw9YbuRWB3O9eVVPMY/giphy.gif)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
