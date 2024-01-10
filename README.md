@@ -2,9 +2,10 @@
 Aimbot for cs 1.6, based on YoloV5
 
 # Install Guide
-1. Install Python 3.11.x (3.11 recommended) and ```py -3.11.x pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118```
-2. Download repository
-3. Open terminal
+1. Install Python 3.11.x (3.11 recommended) and CUDA 11.8
+2. ```py -3.11.x pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118```
+3. Download repository
+4. Open terminal
 5. ```cd AI_AIMBOT_CS1.6```
 6. ```py -3.11.x -m pip install -r requirements.txt```
 7. Open Counter-Strike in window
